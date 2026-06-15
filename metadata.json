@@ -1,0 +1,7 @@
+// metadata.json
+{
+  "name": "RUDRA Tour Travel ",
+  "description": "A premium Bike,Scooty, hotel, Car, and cab search reservation dashboard with animated search forms, real-time ticket mock bookings, and an integrated server-side Gemini AI itinerary planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
